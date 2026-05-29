@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Almond Cake ☕</title>
+    <link href="assets/styles.css" rel="stylesheet">
+    <script src="assets/script.js" defer></script>
+    <script src="assets/front.js" defer></script>
+</head>
+
+<body>
+
+<div class="shopping-cart">
+
+    <!-- Hero Section -->
+    <header class="hero">
+
+        <div class="blossoms">
+            <span>☕</span>
+            <span>🌰</span>
+            <span>🍪</span>
+            <span>🍹</span>
+            <span>🍰</span>
+            <span>🍨</span>
+        </div>
+
+        <h1>Almond Cake ☕</h1>
+
+        <div class="bread">
+            <span>☕</span>
+            <span>🍰</span>
+            <span>🍪</span>
+            <span>🍹</span>
+            <span>🍨</span>
+            <span>💨</span>
+        </div>
+
+        <p class="tagline">
+            Coffee, desserts & cozy vibes every day ✨
+        </p>
+
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+
+            <li title="Hot Drinks">
+                <a href="#cakes">
+                    <img src="./images/icons/coffee.svg" alt="Hot Drinks">
+                </a>
+            </li>
+
+            <li title="Cookies">
+                <a href="#cookies">
+                    <img src="./images/icons/cookies.png" alt="Cookies">
+                </a>
+            </li>
+
+            <li title="Mojito">
+                <a href="#cupcake">
+                    <img src="./images/icons/mojito.svg" alt="Mojito">
+                </a>
+            </li>
+
+            <li title="Ice Cream">
+                <a href="#croissant">
+                    <img src="./images/icons/icecream.svg" alt="Ice Cream">
+                </a>
+            </li>
+
+            <li title="Cake">
+                <a href="#donut">
+                    <img src="./images/icons/cake.png" alt="Cake">
+                </a>
+            </li>
+
+            <li title="Shisha">
+                <a href="#rolls">
+                    <img src="./images/icons/shisha.svg" alt="Shisha">
+                </a>
+            </li>
+
+            <!-- Cart -->
+            <li title="Your Cart" id="cartbtn">
+                <img class="still" src="./images/icons/cart.png" alt="Cart">
+            </li>
+
+            <!-- Contact -->
+            <li title="Contact Us">
+                <a href="contact.html">
+                    <img class="still" src="./images/icons/contact.png" alt="Contact">
+                </a>
+            </li>
+
+            <!-- About -->
+            <li title="About Us">
+                <a href="about.html">
+                    <img class="still" src="./images/icons/about.png" alt="About">
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+
+    <!-- Products + Cart Container -->
+    <div class="cart-container">
+
+        <!-- Products -->
+        <div class="products-container">
+
+            <h2>Hot Drinks ☕</h2>
+            <div class="cakes" id="cakes"></div>
+
+            <h2>Cookies 🍪</h2>
+            <div class="cookies" id="cookies"></div>
+
+            <h2>Mojito 🍹</h2>
+            <div class="cupcake" id="cupcake"></div>
+
+            <h2>Ice Cream 🍨</h2>
+            <div class="croissant" id="croissant"></div>
+
+            <h2>Cakes 🍰</h2>
+            <div class="donut" id="donut"></div>
+
+            <h2>Shisha 💨</h2>
+            <div class="rolls" id="rolls"></div>
+
+        </div>
+
+        <!-- Cart Sidebar -->
+        <div class="cart-section">
+
+            <button id="closeCart">✕</button>
+
+            <h2 id="cart">Your Cart 🛒</h2>
+
+            <div class="empty-btn"></div>
+
+            <div class="cart"></div>
+
+            <!-- Checkout -->
+            <div class="checkout-container">
+
+                <h2>Checkout 💳</h2>
+
+                <div class="checkout">
+
+                    <div class="cart-total"></div>
+
+                    <label>Enter Cash Received:</label>
+
+                    <input class="received" type="number" placeholder="0.00" min="0">
+
+                    <button class="pay">Pay ✅</button>
+
+                    <h3>Receipt 🧾</h3>
+
+                    <div class="pay-summary"></div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

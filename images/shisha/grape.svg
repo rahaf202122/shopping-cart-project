@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#fff8f0"/>
+  <!-- base -->
+  <rect x="105" y="255" width="90" height="12" rx="5" fill="#795548"/>
+  <rect x="115" y="245" width="70" height="14" rx="5" fill="#8d6e63"/>
+  <!-- stem/column -->
+  <rect x="136" y="175" width="28" height="75" rx="8" fill="#40c4c4"/>
+  <!-- bowl -->
+  <path d="M100 100 Q80 140 90 175 Q120 195 150 195 Q180 195 210 175 Q220 140 200 100 Z" fill="#40c4c4"/>
+  <path d="M108 108 Q90 145 100 172 Q125 188 150 188 Q175 188 200 172 Q210 145 192 108 Z" fill="#b2dfdb" opacity="0.3"/>
+  <!-- coals on top -->
+  <rect x="90" y="90" width="120" height="18" rx="6" fill="#555"/>
+  <rect x="95" y="85" width="110" height="12" rx="5" fill="#e53935"/>
+  <rect x="100" y="82" width="100" height="8" rx="4" fill="#ff7043" opacity="0.7"/>
+  <!-- foil -->
+  <ellipse cx="150" cy="90" rx="62" ry="10" fill="#c0c0c0" opacity="0.6"/>
+  <!-- hose connection -->
+  <path d="M210 155 Q240 155 248 140 Q255 125 260 105" stroke="#40c4c4" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <!-- mouthpiece -->
+  <ellipse cx="260" cy="103" rx="8" ry="5" fill="#2aa5a5"/>
+  <!-- smoke -->
+  <path d="M140 80 Q132 60 142 45" stroke="#bbb" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M155 78 Q147 55 158 40" stroke="#bbb" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M168 82 Q162 58 172 44" stroke="#bbb" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <text x="150" y="285" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#40c4c4">Grape Shisha</text>
+</svg>

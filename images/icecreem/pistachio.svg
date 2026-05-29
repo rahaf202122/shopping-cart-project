@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#fff8f0"/>
+  <!-- cup -->
+  <path d="M90 175 L100 255 Q150 270 200 255 L210 175 Z" fill="#a5d6a7"/>
+  <path d="M88 172 L212 172 L208 185 L92 185 Z" fill="#81c784"/>
+  <!-- ice cream scoops -->
+  <!-- left scoop -->
+  <ellipse cx="120" cy="162" rx="45" ry="42" fill="#c8e6c9"/>
+  <ellipse cx="120" cy="155" rx="45" ry="42" fill="#a5d6a7"/>
+  <!-- right scoop -->
+  <ellipse cx="182" cy="162" rx="45" ry="42" fill="#c8e6c9"/>
+  <ellipse cx="182" cy="155" rx="45" ry="42" fill="#a5d6a7"/>
+  <!-- middle scoop on top -->
+  <ellipse cx="150" cy="132" rx="48" ry="44" fill="#dcedc8"/>
+  <ellipse cx="150" cy="125" rx="48" ry="44" fill="#b9f6ca" opacity="0.8"/>
+  <!-- shine -->
+  <ellipse cx="132" cy="108" rx="14" ry="10" fill="white" opacity="0.2" transform="rotate(-20 132 108)"/>
+  <!-- pistachio bits -->
+  <ellipse cx="143" cy="118" rx="7" ry="5" fill="#558b2f"/>
+  <ellipse cx="160" cy="125" rx="6" ry="4" fill="#558b2f"/>
+  <ellipse cx="150" cy="135" rx="6" ry="5" fill="#33691e"/>
+  <text x="150" y="285" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#2e7d32">Pistachio</text>
+</svg>

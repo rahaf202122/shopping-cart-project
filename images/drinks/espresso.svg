@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#fff8f0"/>
+  <!-- small espresso cup -->
+  <path d="M95 130 L105 220 Q150 235 195 220 L205 130 Z" fill="#c8a882"/>
+  <path d="M95 130 L205 130 L200 148 L100 148 Z" fill="#b8987a"/>
+  <!-- espresso -->
+  <ellipse cx="150" cy="155" rx="45" ry="12" fill="#3a1a05"/>
+  <!-- crema -->
+  <ellipse cx="150" cy="152" rx="43" ry="10" fill="#8b5a2b" opacity="0.7"/>
+  <!-- steam -->
+  <path d="M135 115 Q130 98 140 85" stroke="#bbb" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M165 115 Q160 98 170 85" stroke="#bbb" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- handle -->
+  <path d="M198 158 Q230 158 230 188 Q230 215 198 215" fill="none" stroke="#b8987a" stroke-width="10" stroke-linecap="round"/>
+  <!-- saucer -->
+  <ellipse cx="150" cy="227" rx="85" ry="12" fill="#dcc4a0"/>
+  <!-- spoon -->
+  <line x1="200" y1="238" x2="240" y2="238" stroke="#c0a060" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="195" cy="238" rx="7" ry="5" fill="#c0a060"/>
+  <text x="150" y="200" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="white">Espresso</text>
+</svg>

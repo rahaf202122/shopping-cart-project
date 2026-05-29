@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#fff8f0"/>
+  <!-- glass -->
+  <path d="M88 62 L103 258 Q150 272 197 258 L212 62 Z" fill="#fff9c4" opacity="0.65"/>
+  <path d="M88 62 L103 258 Q150 272 197 258 L212 62 Z" fill="none" stroke="#f9a825" stroke-width="3"/>
+  <!-- orange yellow liquid -->
+  <path d="M91 92 L105 258 Q150 272 195 258 L209 92 Z" fill="#ffca28" opacity="0.55"/>
+  <!-- ice -->
+  <rect x="110" y="100" width="27" height="27" rx="5" fill="white" opacity="0.65"/>
+  <rect x="151" y="93" width="25" height="25" rx="5" fill="white" opacity="0.6"/>
+  <!-- passionfruit slice -->
+  <circle cx="150" cy="63" r="18" fill="#f57f17"/>
+  <circle cx="150" cy="63" r="13" fill="#ffb300"/>
+  <circle cx="150" cy="63" r="8" fill="#fff176"/>
+  <line x1="150" y1="45" x2="150" y2="81" stroke="#f57f17" stroke-width="1.5"/>
+  <line x1="132" y1="63" x2="168" y2="63" stroke="#f57f17" stroke-width="1.5"/>
+  <!-- mint -->
+  <ellipse cx="118" cy="83" rx="14" ry="8" fill="#81c784" transform="rotate(-20 118 83)"/>
+  <ellipse cx="180" cy="80" rx="13" ry="8" fill="#66bb6a" transform="rotate(15 180 80)"/>
+  <!-- straw -->
+  <line x1="177" y1="50" x2="169" y2="268" stroke="#f9a825" stroke-width="6" stroke-linecap="round"/>
+  <!-- bubbles -->
+  <circle cx="130" cy="180" r="5" fill="white" opacity="0.4"/>
+  <circle cx="165" cy="155" r="4" fill="white" opacity="0.35"/>
+  <text x="150" y="290" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#e65100">Passion Mojito</text>
+</svg>

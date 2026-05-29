@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#fff8f0"/>
+  <!-- glass -->
+  <path d="M88 62 L103 258 Q150 272 197 258 L212 62 Z" fill="#e8f5e9" opacity="0.65"/>
+  <path d="M88 62 L103 258 Q150 272 197 258 L212 62 Z" fill="none" stroke="#66bb6a" stroke-width="3"/>
+  <!-- lime green liquid -->
+  <path d="M91 92 L105 258 Q150 272 195 258 L209 92 Z" fill="#aed581" opacity="0.55"/>
+  <!-- ice -->
+  <rect x="108" y="98" width="28" height="28" rx="5" fill="white" opacity="0.65"/>
+  <rect x="150" y="90" width="26" height="26" rx="5" fill="white" opacity="0.6"/>
+  <rect x="176" y="100" width="24" height="24" rx="5" fill="white" opacity="0.55"/>
+  <!-- lime slices -->
+  <ellipse cx="150" cy="65" rx="22" ry="12" fill="#c5e1a5"/>
+  <line x1="150" y1="53" x2="150" y2="77" stroke="#8bc34a" stroke-width="2"/>
+  <line x1="128" y1="65" x2="172" y2="65" stroke="#8bc34a" stroke-width="2"/>
+  <!-- mint leaves -->
+  <ellipse cx="115" cy="82" rx="15" ry="9" fill="#4caf50" transform="rotate(-20 115 82)"/>
+  <ellipse cx="145" cy="75" rx="14" ry="8" fill="#66bb6a" transform="rotate(5 145 75)"/>
+  <ellipse cx="180" cy="80" rx="14" ry="8" fill="#4caf50" transform="rotate(20 180 80)"/>
+  <!-- straw -->
+  <line x1="175" y1="55" x2="167" y2="270" stroke="#8bc34a" stroke-width="6" stroke-linecap="round"/>
+  <!-- bubbles -->
+  <circle cx="122" cy="175" r="5" fill="white" opacity="0.45"/>
+  <circle cx="160" cy="200" r="4" fill="white" opacity="0.4"/>
+  <text x="150" y="290" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" fill="#33691e">Virgin Mojito</text>
+</svg>

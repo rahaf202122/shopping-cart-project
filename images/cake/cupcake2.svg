@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#fff8f0"/>
+  <!-- cupcake wrapper -->
+  <path d="M95 200 L80 260 Q150 278 220 260 L205 200 Z" fill="#f48fb1"/>
+  <!-- wrapper lines -->
+  <line x1="118" y1="200" x2="108" y2="260" stroke="#f06292" stroke-width="2"/>
+  <line x1="140" y1="200" x2="135" y2="262" stroke="#f06292" stroke-width="2"/>
+  <line x1="160" y1="200" x2="165" y2="262" stroke="#f06292" stroke-width="2"/>
+  <line x1="182" y1="200" x2="192" y2="260" stroke="#f06292" stroke-width="2"/>
+  <!-- cake body -->
+  <ellipse cx="150" cy="202" rx="58" ry="15" fill="#f8bbd0"/>
+  <rect x="92" y="175" width="116" height="30" rx="8" fill="#fce4ec"/>
+  <!-- frosting swirl -->
+  <ellipse cx="150" cy="165" rx="65" ry="22" fill="#e91e8c"/>
+  <ellipse cx="150" cy="155" rx="60" ry="22" fill="#f06292"/>
+  <ellipse cx="150" cy="142" rx="50" ry="20" fill="#e91e8c"/>
+  <ellipse cx="150" cy="130" rx="38" ry="17" fill="#f06292"/>
+  <ellipse cx="150" cy="120" rx="25" ry="13" fill="#e91e8c"/>
+  <!-- sprinkles -->
+  <rect x="125" y="160" width="12" height="5" rx="2" fill="#ffcc02" transform="rotate(-30 125 160)"/>
+  <rect x="165" y="155" width="12" height="5" rx="2" fill="#4fc3f7" transform="rotate(20 165 155)"/>
+  <rect x="140" y="148" width="10" height="4" rx="2" fill="#a5d6a7" transform="rotate(-15 140 148)"/>
+  <rect x="158" y="170" width="11" height="4" rx="2" fill="#ff8a65" transform="rotate(35 158 170)"/>
+  <!-- cherry on top -->
+  <circle cx="150" cy="107" r="11" fill="#e53935"/>
+  <path d="M150 97 Q158 82 165 78" stroke="#388e3c" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <text x="150" y="285" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="#880e4f">Pink Cupcake</text>
+</svg>

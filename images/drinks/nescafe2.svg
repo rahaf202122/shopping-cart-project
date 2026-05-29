@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#fff8f0"/>
+  <!-- cup -->
+  <path d="M80 100 L90 220 Q150 240 210 220 L220 100 Z" fill="#d4a574"/>
+  <path d="M80 100 L220 100 L215 120 L85 120 Z" fill="#c4956a"/>
+  <!-- coffee liquid -->
+  <ellipse cx="150" cy="130" rx="60" ry="15" fill="#6b3a1f"/>
+  <!-- steam -->
+  <path d="M120 80 Q115 60 125 45" stroke="#ccc" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M150 75 Q145 55 155 40" stroke="#ccc" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M180 80 Q175 60 185 45" stroke="#ccc" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- handle -->
+  <path d="M210 140 Q250 140 250 175 Q250 210 210 210" fill="none" stroke="#c4956a" stroke-width="12" stroke-linecap="round"/>
+  <!-- saucer -->
+  <ellipse cx="150" cy="228" rx="90" ry="14" fill="#e8c99a"/>
+  <!-- label -->
+  <text x="150" y="185" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold" fill="white">NESCAFÉ</text>
+</svg>
