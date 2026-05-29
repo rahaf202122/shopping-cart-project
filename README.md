@@ -1,22 +1,31 @@
-# Shopping Cart Project
+# 🛒 Shopping Cart Project
 
-This is a simple shopping cart web application built using:
+A simple and interactive Shopping Cart web application built using **HTML, CSS, and JavaScript**.
 
-* HTML
-* CSS
-* JavaScript
+---
 
-## Features
+## 🚀 Overview
+This project simulates a basic online shopping cart system where users can add products, remove them, and see the total price updated dynamically.
 
-* Add products to cart
-* Remove items
-* Update quantity
-* Interactive UI
+---
 
-## Project Link
+## ✨ Features
+- 🛍️ Add products to the cart  
+- ❌ Remove products from the cart  
+- 🔢 Update quantity of items  
+- 💰 Automatic total price calculation  
+- ⚡ Dynamic and interactive UI  
 
-Coming soon...
+---
 
-## Author
+## 🛠️ Built With
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-Rahaf Salahat
+---
+
+## ▶️ How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/shopping-cart-project.git
